@@ -33,3 +33,8 @@
     <script async
     src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
     </script>
+
+
+# Meta
+Repository: {{ site.github.repository_url }}
+Build Revision: {{ site.github.build_revision }}

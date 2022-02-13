@@ -1,0 +1,7 @@
+title: Washington Birding Site Impressions
+description: Washington Birding Site Impressions
+
+
+exclude:
+  - bin
+  - venv

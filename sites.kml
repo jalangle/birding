@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
+        <name>KmlFile</name>
+        <Style id="west_campus_style">
+          <IconStyle>
+            <Icon>
+              <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+              </href>
+            </Icon>
+          </IconStyle>
+          <BalloonStyle>
+            <text>$[video]</text>
+          </BalloonStyle>
+        </Style>
         <Placemark id="3">
             <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <styleUrl>#west_campus_style</styleUrl>
             <Point id="2">
                 <coordinates>45.807045, -122.743064,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
             <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
+            <styleUrl>#west_campus_style</styleUrl>
             <Point id="4">
                 <coordinates>47.072592, -122.713643,0.0</coordinates>
             </Point>

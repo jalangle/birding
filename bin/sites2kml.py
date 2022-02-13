@@ -11,9 +11,7 @@ p = Path('sites')
 for d in p.iterdir():
 	with open(d) as f:
 		site = frontmatter.load(f)
-
 		coordinates = site['Coordinates'].split(',')
 		sites.newpoint(name=site['Name'], coords=[coordinates])
 
-
-sites.save("sites.xml")
+sites.save("sites.kml")

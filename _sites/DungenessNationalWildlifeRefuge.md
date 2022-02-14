@@ -1,4 +1,7 @@
 ---
 Title: Dungeness National Wildlife Refuge
-Coordinates: -123.189457, 48.142700
+WABird:
+    Coordinates:
+        Latitude: 48.142700
+        Longitude: -123.189457
 ---

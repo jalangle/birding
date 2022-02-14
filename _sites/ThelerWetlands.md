@@ -1,4 +1,7 @@
 ---
 Title: Theler Wetlands
-Coordinates: 47.4378813,-122.8411134
+WABird:
+    Coordinates:
+        Latitude: 47.4378813
+        Longitude: -122.8411134
 ---

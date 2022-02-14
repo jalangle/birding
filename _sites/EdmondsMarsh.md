@@ -1,4 +1,7 @@
 ---
 Title: Edmonds Marsh
-Coordinates: 47.8085287,-122.3864508
+WABird:
+    Coordinates:
+        Latitude: 47.8085287
+        Longitude: -122.3864508
 ---

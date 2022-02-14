@@ -1,4 +1,7 @@
 ---
 Title: Ridgefield National Wildlife Refuge, Auto Tour
-Coordinates:  -122.743064,45.807045
+WABird:
+    Coordinates:
+        Latitude: 45.807045
+        Longitude: -122.743064
 ---

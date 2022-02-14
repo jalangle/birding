@@ -1,4 +1,7 @@
 ---
 Title: Billy Frank Jr. Nisqually National Wildlife Refuge
-Coordinates: -122.713643,47.072592
+WABird:
+    Coordinates:
+        Latitude: 47.072592
+        Longitude: -122.713643
 ---

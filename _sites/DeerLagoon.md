@@ -1,4 +1,7 @@
 ---
 Title: Deer Lagoon
-Coordinates: -122.491977, 47.995178
+WABird:
+    Coordinates:
+        Latitude:  47.995178
+        Longitude: -122.491977
 ---

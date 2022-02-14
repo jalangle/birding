@@ -1,4 +1,7 @@
 ---
 Title: Padilla Bay Shore Trail
-Coordinates: -122.4701625,48.4705732
+WABird:
+    Coordinates:
+        Latitude: 48.4705732
+        Longitude: -122.4701625
 ---

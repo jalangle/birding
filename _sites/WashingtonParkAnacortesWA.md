@@ -1,4 +1,7 @@
 ---
 Title: Washington Park, Anacortes, WA
-Coordinates: -122.695989, 48.496224
+WABird:
+    Coordinates:
+        Latitude: 48.496224
+        Longitude: -122.695989
 ---

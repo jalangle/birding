@@ -4,7 +4,7 @@
         <Placemark id="3">
             <name>Washington Park, Anacortes, WA</name>
             <Point id="2">
-                <coordinates>48.496224, -122.695989,0.0</coordinates>
+                <coordinates>-122.695989, 48.496224,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">

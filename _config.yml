@@ -1,6 +1,10 @@
 title: Washington Birding Site Impressions
 description: Washington Birding Site Impressions
 
+# Build settings
+markdown: kramdown
+theme: minima
+
 collections:
   sites:
     output: true

@@ -2,6 +2,8 @@
 Title: Washington State Birding Site Impressions
 ---
 
+A site dedicated to keeping track of impressions about various birding locations.
+
 # Map
 [map](map.html)
 

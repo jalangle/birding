@@ -7,7 +7,7 @@ import simplekml
 
 sites = simplekml.Kml()
 
-p = Path('sites')
+p = Path('_sites')
 for d in p.iterdir():
 	with open(d) as f:
 		site = frontmatter.load(f)

@@ -1,6 +1,9 @@
 title: Washington Birding Site Impressions
 description: Washington Birding Site Impressions
 
+collections:
+  sites:
+    output: true
 
 exclude:
   - bin

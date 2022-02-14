@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>Washington Birding Sites, 2022/02/13</name>
+        <name>Washington Birding Site Impressions, 2022/02/14</name>
         <Placemark id="3">
-            <name>Washington Park, Anacortes, WA</name>
+            <name>Dungeness National Wildlife Refuge</name>
             <Point id="2">
-                <coordinates>-122.695989, 48.496224,0.0</coordinates>
+                <coordinates>-123.189457, 48.142700,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
-            <name>Yesler Swamp</name>
-            <Point id="4">
-                <coordinates>-122.287309,47.657401,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7">
-            <name>Narbeck Wetland Sanctuary Park</name>
-            <Point id="6">
-                <coordinates>-122.259979, 47.934991,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9">
-            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
-            <Point id="8">
-                <coordinates>-122.743064,45.807045,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11">
-            <name>Union Bay Natural Area</name>
-            <Point id="10">
-                <coordinates>-122.292254, 47.655444,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13">
-            <name>Deer Lagoon</name>
-            <Point id="12">
-                <coordinates>-122.491977, 47.995178,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15">
             <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
-            <Point id="14">
+            <Point id="4">
                 <coordinates>-122.713643,47.072592,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="7">
+            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <Point id="6">
+                <coordinates>-122.743064,45.807045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Union Bay Natural Area</name>
+            <Point id="8">
+                <coordinates>-122.292254, 47.655444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Narbeck Wetland Sanctuary Park</name>
+            <Point id="10">
+                <coordinates>-122.259979, 47.934991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Washington Park, Anacortes, WA</name>
+            <Point id="12">
+                <coordinates>-122.695989, 48.496224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Deer Lagoon</name>
+            <Point id="14">
+                <coordinates>-122.491977, 47.995178,0.0</coordinates>
+            </Point>
+        </Placemark>
         <Placemark id="17">
-            <name>Dungeness National Wildlife Refuge</name>
+            <name>Yesler Swamp</name>
             <Point id="16">
-                <coordinates>-123.189457, 48.142700,0.0</coordinates>
+                <coordinates>-122.287309,47.657401,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -16,7 +16,7 @@ jobs:
           run: source venv/bin/activate
         - name: Install dependencies
           run: python3 -m pip install -r requirements.txt
-        - name: Git Status
-          run: git status
         - name: Update KML
           run: python3 bin/sites2kml.py
+        - name: Git Status
+          run: git status

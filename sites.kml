@@ -51,20 +51,26 @@
             </Point>
         </Placemark>
         <Placemark id="19">
-            <name>Theler Wetlands</name>
+            <name>Padilla Bay Shore Trail</name>
             <Point id="18">
-                <coordinates>47.4378813,-122.8411134,0.0</coordinates>
+                <coordinates>-122.4701625,48.4705732,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="21">
-            <name>Deer Lagoon</name>
+            <name>Theler Wetlands</name>
             <Point id="20">
-                <coordinates>-122.491977, 47.995178,0.0</coordinates>
+                <coordinates>47.4378813,-122.8411134,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>Yesler Swamp</name>
+            <name>Deer Lagoon</name>
             <Point id="22">
+                <coordinates>-122.491977, 47.995178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Yesler Swamp</name>
+            <Point id="24">
                 <coordinates>-122.287309,47.657401,0.0</coordinates>
             </Point>
         </Placemark>

@@ -15,38 +15,44 @@
             </Point>
         </Placemark>
         <Placemark id="7">
-            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <name>Skagit Wildlife Area Wylie Slough</name>
             <Point id="6">
-                <coordinates>-122.743064,45.807045,0.0</coordinates>
+                <coordinates>-122.3741287,48.3246351,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="9">
-            <name>Union Bay Natural Area</name>
+            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
             <Point id="8">
-                <coordinates>-122.292254, 47.655444,0.0</coordinates>
+                <coordinates>-122.743064,45.807045,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
-            <name>Narbeck Wetland Sanctuary Park</name>
+            <name>Union Bay Natural Area</name>
             <Point id="10">
-                <coordinates>-122.259979, 47.934991,0.0</coordinates>
+                <coordinates>-122.292254, 47.655444,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>Washington Park, Anacortes, WA</name>
+            <name>Narbeck Wetland Sanctuary Park</name>
             <Point id="12">
-                <coordinates>-122.695989, 48.496224,0.0</coordinates>
+                <coordinates>-122.259979, 47.934991,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="15">
-            <name>Deer Lagoon</name>
+            <name>Washington Park, Anacortes, WA</name>
             <Point id="14">
-                <coordinates>-122.491977, 47.995178,0.0</coordinates>
+                <coordinates>-122.695989, 48.496224,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="17">
-            <name>Yesler Swamp</name>
+            <name>Deer Lagoon</name>
             <Point id="16">
+                <coordinates>-122.491977, 47.995178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Yesler Swamp</name>
+            <Point id="18">
                 <coordinates>-122.287309,47.657401,0.0</coordinates>
             </Point>
         </Placemark>

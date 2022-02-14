@@ -13,6 +13,6 @@ for d in p.iterdir():
 	with open(d) as f:
 		site = frontmatter.load(f)
 		coordinates = site['Coordinates'].split(',')
-		sites.newpoint(name=site['Name'], coords=[coordinates])
+		sites.newpoint(name=site['Title'], coords=[coordinates])
 
 sites.save("sites.kml")

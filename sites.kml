@@ -27,27 +27,27 @@
             </Point>
         </Placemark>
         <Placemark id="11">
-            <name>Union Bay Natural Area</name>
+            <name>Edmonds Marsh</name>
             <Point id="10">
-                <coordinates>-122.292254, 47.655444,0.0</coordinates>
+                <coordinates>47.8085287,-122.3864508,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="13">
-            <name>Narbeck Wetland Sanctuary Park</name>
+            <name>Union Bay Natural Area</name>
             <Point id="12">
-                <coordinates>-122.259979, 47.934991,0.0</coordinates>
+                <coordinates>-122.292254, 47.655444,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="15">
-            <name>Washington Park, Anacortes, WA</name>
+            <name>Narbeck Wetland Sanctuary Park</name>
             <Point id="14">
-                <coordinates>-122.695989, 48.496224,0.0</coordinates>
+                <coordinates>-122.259979, 47.934991,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="17">
-            <name>Edmonds Marsh</name>
+            <name>Washington Park, Anacortes, WA</name>
             <Point id="16">
-                <coordinates>47.8085287,-122.3864508,0.0</coordinates>
+                <coordinates>-122.695989, 48.496224,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="19">

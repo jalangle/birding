@@ -10,7 +10,7 @@ A site dedicated to keeping track of impressions about various birding locations
 # Sites
 
 {% for birding_site in site.sites %}
-## [{{birding_site.Name}}]({{site.baseurl}}{{birding_site.url}})
+## [{{birding_site.Title}}]({{site.baseurl}}{{birding_site.url}})
 
 {% endfor %}
 

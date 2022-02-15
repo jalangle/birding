@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<h3>EBird Hotspots</h3>
+
+<ul>
+{% for hotspot in page.WABird.EBird %}
+<li><a href="{{ hotspot }}">{{hotspot}}</a></li>
+{% endfor %}
+</ul>
+
+
+<h3>Description</h3>
+
+{{ content }}
+
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>Washington Birding Site Impressions, 2022/02/15</name>
+        <name>Washington Birding Site Impressions, 2022/02/22</name>
         <Placemark id="3">
             <name>Washington Park, Anacortes, WA</name>
             <Point id="2">
@@ -57,20 +57,26 @@
             </Point>
         </Placemark>
         <Placemark id="21">
-            <name>Theler Wetlands</name>
+            <name>Cedar River</name>
             <Point id="20">
-                <coordinates>-122.8411134,47.4378813,0.0</coordinates>
+                <coordinates>-122.2146012,47.5007162,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
+            <name>Theler Wetlands</name>
             <Point id="22">
-                <coordinates>-122.713643,47.072592,0.0</coordinates>
+                <coordinates>-122.8411134,47.4378813,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="25">
-            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
             <Point id="24">
+                <coordinates>-122.713643,47.072592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <Point id="26">
                 <coordinates>-122.743064,45.807045,0.0</coordinates>
             </Point>
         </Placemark>

@@ -20,7 +20,7 @@ Locations
 <div id="capture"></div>
 <script>
   var map;
-  var src = 'https://jalangle.github.io/wabirding/sites.kml';
+  var src = '{{site.url}}/sites.kml';
 
   function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {

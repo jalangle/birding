@@ -2,7 +2,7 @@
 Title: Tieton River Nature Trail
 WABird:
     Coordinates:
-        Latitude: 46.727435, 
+        Latitude: 46.727435
         Longitude: -120.811355
     EBird:
         - https://ebird.org/hotspot/L1547113

@@ -75,14 +75,20 @@
             </Point>
         </Placemark>
         <Placemark id="27">
-            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <name>Tieton River Nature Trail</name>
             <Point id="26">
-                <coordinates>-122.743064,45.807045,0.0</coordinates>
+                <coordinates>-120.811355,46.727435,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="29">
-            <name>Oaks Bottom Wildlife Refuge</name>
+            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
             <Point id="28">
+                <coordinates>-122.743064,45.807045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Oaks Bottom Wildlife Refuge</name>
+            <Point id="30">
                 <coordinates>-122.6553154,45.4776166,0.0</coordinates>
             </Point>
         </Placemark>

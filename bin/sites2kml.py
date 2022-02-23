@@ -41,7 +41,7 @@ def GetLocations():
 
 def LocationsToKML(locations):
 	""" Convert locations to a KML file """
-	sites = simplekml.Kml(name="Washington Birding Site Impressions, " + date.today().strftime("%Y/%m/%d"))
+	sites = simplekml.Kml(name="Birding Site Impressions, " + date.today().strftime("%Y/%m/%d"))
 	for l in locations:
 		sites.newpoint(name=l.Name, coords=[(l.Longitude, l.Latitude)])
 	sites.save("sites.kml")

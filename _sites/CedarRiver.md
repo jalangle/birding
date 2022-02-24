@@ -1,6 +1,6 @@
 ---
 Title: Cedar River
-WABird:
+Birding:
     Coordinates:
         Latitude:  47.5007162
         Longitude: -122.2146012

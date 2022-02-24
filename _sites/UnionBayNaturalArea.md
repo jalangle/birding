@@ -1,6 +1,6 @@
 ---
 Title: Union Bay Natural Area
-WABird:
+Birding:
     Coordinates:
         Latitude: 47.655444
         Longitude: -122.292254

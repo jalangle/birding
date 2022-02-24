@@ -1,6 +1,6 @@
 ---
 Title: Oaks Bottom Wildlife Refuge
-WABird:
+Birding:
     Coordinates:
         Latitude: 45.4776166
         Longitude: -122.6553154

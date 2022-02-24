@@ -32,7 +32,7 @@ def GetLocations():
 		print("Loading on " + str(d))
 		with open(d) as f:
 			site = frontmatter.load(f)
-			l = Location(site['Title'], site['WABird']['Coordinates']['Latitude'], site['WABird']['Coordinates']['Longitude'])
+			l = Location(site['Title'], site['Birding']['Coordinates']['Latitude'], site['Birding']['Coordinates']['Longitude'])
 			locations.append(l)
 
 	# sort the list of locations (sort is by Lat, then Long) so that they appear in a consistent order

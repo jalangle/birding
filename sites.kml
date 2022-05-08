@@ -57,50 +57,56 @@
             </Point>
         </Placemark>
         <Placemark id="21">
-            <name>Yesler Swamp</name>
+            <name>Dosewallips State Park, WA</name>
             <Point id="20">
-                <coordinates>-122.287309,47.657401,0.0</coordinates>
+                <coordinates>-122.902905,47.688017,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="23">
-            <name>Union Bay Natural Area</name>
+            <name>Yesler Swamp</name>
             <Point id="22">
-                <coordinates>-122.292254,47.655444,0.0</coordinates>
+                <coordinates>-122.287309,47.657401,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="25">
-            <name>Cedar River</name>
+            <name>Union Bay Natural Area</name>
             <Point id="24">
-                <coordinates>-122.2146012,47.5007162,0.0</coordinates>
+                <coordinates>-122.292254,47.655444,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="27">
-            <name>Theler Wetlands</name>
+            <name>Cedar River</name>
             <Point id="26">
-                <coordinates>-122.8411134,47.4378813,0.0</coordinates>
+                <coordinates>-122.2146012,47.5007162,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="29">
-            <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
+            <name>Theler Wetlands</name>
             <Point id="28">
-                <coordinates>-122.713643,47.072592,0.0</coordinates>
+                <coordinates>-122.8411134,47.4378813,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="31">
-            <name>Tieton River Nature Trail</name>
+            <name>Billy Frank Jr. Nisqually National Wildlife Refuge</name>
             <Point id="30">
-                <coordinates>-120.811355,46.727435,0.0</coordinates>
+                <coordinates>-122.713643,47.072592,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="33">
-            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
+            <name>Tieton River Nature Trail</name>
             <Point id="32">
-                <coordinates>-122.743064,45.807045,0.0</coordinates>
+                <coordinates>-120.811355,46.727435,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="35">
-            <name>Oaks Bottom Wildlife Refuge</name>
+            <name>Ridgefield National Wildlife Refuge, Auto Tour</name>
             <Point id="34">
+                <coordinates>-122.743064,45.807045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Oaks Bottom Wildlife Refuge</name>
+            <Point id="36">
                 <coordinates>-122.6553154,45.4776166,0.0</coordinates>
             </Point>
         </Placemark>
